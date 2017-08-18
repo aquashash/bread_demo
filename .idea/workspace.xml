@@ -32,6 +32,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
               <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+<<<<<<< HEAD
               <folding />
             </state>
           </provider>
@@ -42,6 +43,8 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
               <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+=======
+>>>>>>> 3f4e00d1ad7736a738f66ed3d946851cf15aa37e
               <folding />
             </state>
           </provider>
@@ -89,6 +92,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -113,7 +117,10 @@
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scratches" />
+=======
+>>>>>>> 3f4e00d1ad7736a738f66ed3d946851cf15aa37e
       <pane id="Scope" />
     </panes>
   </component>
@@ -341,6 +348,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/contacts.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -349,6 +357,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 3f4e00d1ad7736a738f66ed3d946851cf15aa37e
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
